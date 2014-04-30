@@ -16,3 +16,5 @@ Sound and fury, signifying nothing.
 6. make a branch
 7. add some stuff in that branch (see steps 2-4)
 8. switch back to original branch
+
+fixing thing 1!
