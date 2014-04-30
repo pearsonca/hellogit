@@ -1,4 +1,4 @@
-The use of the phrases `ego` and `alter` in social sciences drives me crazy.
+The use of the phrases `ego` and `alter` in social sciences drives me bananas.
 
 It's so snooty.  What's wrong with `self` and `other`?  The RDMS idiom `me` and `foreign` would also work.
 Really, anything that has more widespread and analogous use would lower the barrier to comprehension.
